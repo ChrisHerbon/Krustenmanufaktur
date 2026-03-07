@@ -3,8 +3,8 @@
 ![DSC07002.jpeg](Attachments/0DEB95C6-3DD5-47AC-9C33-3CEFD8680783.jpeg)  
   
 ## Ablauf  
-  
-* 50g Roggenmehl 1150 mit 50g warmem Wasser verrühren
+
+* 50g *frisches* Roggenmehl 1150 mit 50g warmem Wasser (40-50°) verrühren
 * 24h abgedeckt aber nicht luftdicht stehen lassen
 * 25g Roggenmehl 1150 und 25g Wasser hinzufügen
 * 24h abgedeckt aber nicht luftdicht stehen lassen
@@ -13,8 +13,12 @@
 ## Die Wahl des Mehls
   
 Grundsätzlich kann jedes Mehl verwendet werden. Klassischerweise wird Roggenmehl 1150 verwendet. Beliebt ist auch Weizenmehl 1150.
+
+## Das richtige Gefäß
+
+Als Gefäß eignen sich Marmeladengläser oder Gläser mit Bügelverschluss. Bei Marmeladengläsern sollte der Deckel nur aufgelegt, aber nicht zugeschraubt werden. Gläser mit Bügelverschluss können vollständig geschlossen werden, allerdings ohne die Gummidichtung.
   
-  
+
 ## Pflege  
   
 * Grundsätzlich wird der Sauerteig im Kühlschrank aufbewahrt - außer zur Vorbereitung auf das Backen (anderenfalls kann er schimmeln).  

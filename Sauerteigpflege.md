@@ -1,4 +1,4 @@
-# Sauerteig  
+# Sauerteigpflege
   
 ![DSC07002.jpeg](Attachments/0DEB95C6-3DD5-47AC-9C33-3CEFD8680783.jpeg)  
   
@@ -7,7 +7,7 @@
 * Im Kühlschrank aufbewahren  
 * Füttern: Hälfte entnehmen, 50/50 warmes (!) Wasser/Roggenmehl zugeben und verrühren  
 * Wöchentlich füttern  
-* Vor dem Backen mind. zweimal bei Raumtemperatur füttern  
+* Vor dem Backen mind. zweimal bei Raumtemperatur füttern
 * Nach dem Füttern sollte sich das Volumen mind. verdoppeln.  
 * Deckel nicht schließen  
   
