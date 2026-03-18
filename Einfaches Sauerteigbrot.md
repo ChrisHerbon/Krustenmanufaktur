@@ -26,7 +26,7 @@ Die Menge ist für ein 22cm Gärkörbchen oder eine 22cm Kastenform ausgelegt.
   
 ## Zubereitung  
   
-* Sauerteig 1-2 Tage vorher aus dem Kühlschrank holen und zweimal täglich füttern, bis sich das Volumen mindestens verdoppelt.  
+* Sauerteig 1-2 Tage vorher aus dem Kühlschrank holen und zweimal täglich füttern, bis sich das Volumen mindestens verdoppelt. [Mehr Informationen gibt es hier][Sauerteig ansetzen.md#Vorbereitung aufs Backen]. 
 * Sauerteig anmischen und über Nacht luftdicht abgedeckt bei Raumtemperatur stehen lassen. Das Volumen sollte sich mindestens verdoppelt haben.  
 * Alle Zutaten für den Hauptteig verrühren. Es entsteht ein sehr klebriger Teig.  
 * Den Teig auf eine mit reichlich Roggenvollkornmehl bemehlte Arbeitsplatte stürzen.  
