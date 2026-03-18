@@ -10,7 +10,7 @@
   
 ## Zutaten  
   
-Die Menge ist für ein 22cm Gärkörbchen oder eine 22cm Kastenform ausgelegt  
+Die Menge ist für ein 22cm Gärkörbchen oder eine 22cm Kastenform ausgelegt.
   
 ### Sauerteig  
 * 250g Roggenvollkornmehl  
