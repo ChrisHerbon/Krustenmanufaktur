@@ -15,7 +15,7 @@ Die Menge ist für ein 22cm Gärkörbchen oder eine 22cm Kastenform ausgelegt.
 ### Sauerteig  
 * 250g Roggenvollkornmehl  
 * 250g Wasser (warm)  
-* 50g Anstellgut  
+* 50g Anstellgut ([Herstellung](Sauerteig%20ansetzen.md) & [Pflege](Sauerteigpflege.md))
 * 3g Salz  
   
 ### Hauptteig  
