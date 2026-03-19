@@ -34,7 +34,7 @@ Die Menge ist für ein 22cm Gärkörbchen oder eine 22cm Kastenform ausgelegt.
 * Ein Gärkörbchen (22cm) mit Roggenmehl bestreuen und den Teigling in das Gärkörbchen geben.  
 * 2 Stunden luftdicht abgedeckt ruhen lassen. Nach 1,5h den Ofen mit dem Gusseisentopf auf 250° vorheizen.  
 * Backpapier auf einen Teller legen, den Teller umgedreht auf das Gärkörbchen legen, sodass das Backpapier zwischen Teller und Teigling liegt. Beides zusammen wenden, sodass der Teigling auf dem Backpapier liegt. Das überstehende Backpapier abschneiden.  
-* 20 Minuten bei 250° im Topf backen, dann 40 Minuten ohne Topf. In den letzten 10 Minuten die Ofentür einen Spalt öffnen, damit die Kruste besonders knusprig wird.  
+* 20 Minuten bei 250° im Topf backen, dann 40 Minuten ohne Topf. In den letzten 10 Minuten auf Umluft schalten und die Ofentür einen Spalt öffnen, damit die Kruste besonders knusprig wird.  
   
 ![DSC07757-3.jpg](Attachments/E28C29D6-B051-47B4-938E-BC052863803E.jpg)  
   
